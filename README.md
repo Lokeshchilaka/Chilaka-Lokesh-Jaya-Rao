@@ -63,7 +63,7 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/lokesh-jaya-rao-0047b8268/)
 - 📧 [Email](mailto:lokeshjra168@gmail.com)
-- 📞 Phone: +91-9515444285
+
 
 ---
 
