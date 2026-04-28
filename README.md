@@ -12,52 +12,73 @@
 
 ## 🧠 Core Focus
 
-- ⚙️ Embedded Systems Development (low-level programming, microcontrollers)
-- 🐧 Embedded Linux (boot process, logs, system behavior, debugging)
-- 🔧 Board bring-up concepts & hardware-software integration
-- 📦 BSP fundamentals (bootloader, kernel, root filesystem)
-- ⚡ Debugging system-level issues (functional & performance)
-- 📡 User-space tools & system monitoring
+- ⚙️ Embedded Systems Development (Microcontrollers & low-level programming)
+- 🐧 Embedded Linux Systems (boot process, system behavior, debugging)
+- 🔧 Board Bring-up Concepts & Hardware-Software Integration
+- 📦 BSP Understanding (Bootloader, Kernel, RootFS basics)
+- ⚡ System Debugging (functional + performance issues)
+- 📡 User-space programming & system-level tools
 
 ---
 
 ## 💻 Technical Skills
 
 ### 🔹 Programming
-- C (system-level programming)
-- Python (automation & tooling)
-- Bash (Linux workflows & scripting)
+- C (low-level system programming)
+- Python (automation, system tools)
+- Bash (Linux scripting & workflows)
 
 ### 🔹 Embedded Linux & Systems
-- Linux Boot Flow (Bootloader → Kernel → RootFS)
-- System Debugging (`journalctl`, dmesg)
-- Process & Resource Monitoring
+- Linux Boot Process (Bootloader → Kernel → RootFS)
+- BSP Concepts (basic understanding of board support packages)
+- System Logs & Debugging (`journalctl`, dmesg)
+- Process Management & Performance Observation
 - File Systems & Permissions
-- Intro to Yocto (learning phase)
+- Basic Yocto awareness (learning stage)
 
-### 🔹 Tools
+### 🔹 Tools & Development Environment
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-Ubuntu-orange?style=for-the-badge&logo=ubuntu"/>
-  <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Language-C-blue?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/Bash-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/ESP32-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scripting-Bash-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Version%20Control-Git-black?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/Embedded-ESP32-green?style=for-the-badge"/>
 </p>
+
+### 🔹 Engineering & Debugging Exposure
+- Basic electronics understanding (signals, power, interfacing)
+- Practical debugging mindset (log analysis, system tracing)
+- Exposure to system-level fault analysis
+- Familiarity with terminal-based workflows
+
+---
+
+## 📚 Current Focus (Aligned with Embedded Linux Roles)
+
+- 🐧 Deep dive into Embedded Linux internals (kernel, logs, processes)
+- ⚙️ Understanding BSP layers (bootloader, kernel, root filesystem)
+- 🔧 Building tools for system debugging & monitoring
+- 📦 Learning Yocto-based build systems
+- 🧠 Strengthening C for low-level and system programming
+- 📡 Exploring system performance analysis
 
 ---
 
 ## 🛠️ Projects
 
 ### 🧠 Intelligent Log Analyzer  
-- Linux-based log analysis using `journalctl`  
-- Detects errors and failures  
-- Generates structured reports  
+- Linux-based log analysis tool using `journalctl`  
+- Detects errors, filters logs, generates structured reports  
 - Demonstrates system-level debugging workflow  
 
 ### ⚙️ Embedded Monitoring Systems  
-- Sensor-based data acquisition  
+- Sensor-based data acquisition and processing  
 - Real-time system observation  
+
+### 🤖 ROS2 System Simulation  
+- System modeling and simulation workflows  
+- Understanding of real-time data pipelines  
 
 ---
 
@@ -65,26 +86,27 @@
 
 ### 🚀 Exodrone Systems — UAV/UAS Systems Engineer
 
-- Worked on embedded and system-level components  
+- Worked on embedded and system-level components in real-world environments  
 - Hardware-software integration and field testing  
-- Exposure to debugging and electronics  
-- Understanding of real-world system reliability  
+- Exposure to system debugging, electronics, and integration workflows  
+- Practical understanding of engineering systems and reliability  
 
 ---
 
 ## 🧩 Additional Strengths
 
-- 🚀 Strong learning ability and curiosity  
-- 🔍 Debugging-oriented mindset  
-- 🧠 Systems thinking approach  
-- 🌍 Interest in open-source and Linux ecosystem  
+- 🚀 Quick learner with strong problem-solving mindset  
+- 🔍 Interest in debugging complex system issues  
+- 🧠 Strong curiosity for low-level system behavior  
+- 🌍 Passionate about open-source and Linux ecosystem  
 
 ---
 
-## 🐍 Contribution Activity
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" width="48%">
 </p>
 
 ---
@@ -98,4 +120,4 @@
 
 ## ⚡ Engineering Philosophy
 
-> "I focus on understanding systems from boot to user space — not just writing code, but understanding behavior."
+> "I focus on understanding systems from boot to user space — not just writing code, but understanding how systems behave."
