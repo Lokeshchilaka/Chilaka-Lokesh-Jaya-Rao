@@ -102,13 +102,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" width="48%">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
-
 ---
 
 ## 📫 Connect With Me
