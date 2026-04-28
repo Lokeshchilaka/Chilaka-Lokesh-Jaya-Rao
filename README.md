@@ -10,19 +10,15 @@
 </p>
 
 ---
-
 ## 🌍 Time Zones
 
 <p align="center">
-  🇩🇪 <b>Frankfurt</b> (Germany)  
-  <br>
-  <img src="https://img.shields.io/badge/Time-Europe%2FBerlin-blue?style=for-the-badge"/>
+  🇩🇪 Frankfurt &nbsp;&nbsp;&nbsp;&nbsp; 🇮🇳 Kolkata
 </p>
 
 <p align="center">
-  🇮🇳 <b>Kolkata</b> (India)  
-  <br>
-  <img src="https://img.shields.io/badge/Time-Asia%2FKolkata-orange?style=for-the-badge"/>
+  <img src="https://readme-time.vercel.app/api?timezone=Europe/Berlin&label=&color=00ADB5"/>
+  <img src="https://readme-time.vercel.app/api?timezone=Asia/Kolkata&label=&color=F8B400"/>
 </p>
 
 ---
