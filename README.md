@@ -1,7 +1,8 @@
-<h1 align="center">Hi, I'm Chilaka Lokesh Jaya Rao ⚙️</h1>
+<h1 align="center">Hi, I'm <span style="color:#00ADB5;">Chilaka Lokesh Jaya Rao</span> ⚙️</h1>
 
 <p align="center">
-  <i>Embedded Systems Engineer | Embedded Linux Developer</i>
+  <b style="color:#00ADB5;">Embedded Systems Engineer</b> • 
+  <b style="color:#F8B400;">Embedded Linux Developer</b>
 </p>
 
 <p align="center">
@@ -12,73 +13,63 @@
 
 ## 🧠 Core Focus
 
-- ⚙️ Embedded Systems Development (Microcontrollers & low-level programming)
-- 🐧 Embedded Linux Systems (boot process, system behavior, debugging)
-- 🔧 Board Bring-up Concepts & Hardware-Software Integration
-- 📦 BSP Understanding (Bootloader, Kernel, RootFS basics)
-- ⚡ System Debugging (functional + performance issues)
-- 📡 User-space programming & system-level tools
+- ⚙️ Embedded Systems Development (low-level programming, microcontrollers)  
+- 🐧 Embedded Linux (boot process, system behavior, debugging)  
+- 🔧 Board bring-up & hardware-software integration  
+- 📦 BSP fundamentals (Bootloader, Kernel, RootFS)  
+- ⚡ System-level debugging (functional & performance)  
+- 📡 User-space tools & system monitoring  
 
 ---
 
 ## 💻 Technical Skills
 
 ### 🔹 Programming
-- C (low-level system programming)
-- Python (automation, system tools)
-- Bash (Linux scripting & workflows)
+- 🧩 C (system-level programming)  
+- 🐍 Python (automation & tooling)  
+- 🖥️ Bash (Linux workflows & scripting)  
 
 ### 🔹 Embedded Linux & Systems
-- Linux Boot Process (Bootloader → Kernel → RootFS)
-- BSP Concepts (basic understanding of board support packages)
-- System Logs & Debugging (`journalctl`, dmesg)
-- Process Management & Performance Observation
-- File Systems & Permissions
-- Basic Yocto awareness (learning stage)
+- 🐧 Linux Boot Flow (Bootloader → Kernel → RootFS)  
+- 🔍 System Debugging (`journalctl`, `dmesg`)  
+- 📊 Process & Resource Monitoring  
+- 📁 File Systems & Permissions  
+- ⚙️ Intro to Yocto (learning phase)  
 
-### 🔹 Tools & Development Environment
+### 🔹 Tools & Environment
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-Ubuntu-orange?style=for-the-badge&logo=ubuntu"/>
-  <img src="https://img.shields.io/badge/Language-C-blue?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/Scripting-Bash-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Version%20Control-Git-black?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/Embedded-ESP32-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Bash-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/ESP32-green?style=for-the-badge"/>
 </p>
-
-### 🔹 Engineering & Debugging Exposure
-- Basic electronics understanding (signals, power, interfacing)
-- Practical debugging mindset (log analysis, system tracing)
-- Exposure to system-level fault analysis
-- Familiarity with terminal-based workflows
 
 ---
 
-## 📚 Current Focus (Aligned with Embedded Linux Roles)
+## 📚 Current Focus
 
-- 🐧 Deep dive into Embedded Linux internals (kernel, logs, processes)
-- ⚙️ Understanding BSP layers (bootloader, kernel, root filesystem)
-- 🔧 Building tools for system debugging & monitoring
-- 📦 Learning Yocto-based build systems
-- 🧠 Strengthening C for low-level and system programming
-- 📡 Exploring system performance analysis
+- 🐧 Deep diving into Embedded Linux internals  
+- ⚙️ Understanding BSP layers (bootloader, kernel, rootfs)  
+- 🔧 Building system debugging & monitoring tools  
+- 📦 Learning Yocto build systems  
+- 🧠 Strengthening low-level C programming  
+- 📡 Exploring system performance analysis  
 
 ---
 
 ## 🛠️ Projects
 
 ### 🧠 Intelligent Log Analyzer  
-- Linux-based log analysis tool using `journalctl`  
-- Detects errors, filters logs, generates structured reports  
-- Demonstrates system-level debugging workflow  
+- Linux-based log analysis using `journalctl`  
+- Detects errors and failures  
+- Generates structured reports  
+- Demonstrates system-level debugging  
 
 ### ⚙️ Embedded Monitoring Systems  
-- Sensor-based data acquisition and processing  
+- Sensor-based data acquisition  
 - Real-time system observation  
-
-### 🤖 ROS2 System Simulation  
-- System modeling and simulation workflows  
-- Understanding of real-time data pipelines  
 
 ---
 
@@ -86,32 +77,36 @@
 
 ### 🚀 Exodrone Systems — UAV/UAS Systems Engineer
 
-- Worked on embedded and system-level components in real-world environments  
-- Hardware-software integration and field testing  
-- Exposure to system debugging, electronics, and integration workflows  
-- Practical understanding of engineering systems and reliability  
+- Embedded system integration in real-world environments  
+- Hardware-software coordination & field testing  
+- Debugging, electronics, and system reliability exposure  
 
 ---
 
-## 🧩 Additional Strengths
+## 🧩 Strengths
 
-- 🚀 Quick learner with strong problem-solving mindset  
-- 🔍 Interest in debugging complex system issues  
-- 🧠 Strong curiosity for low-level system behavior  
-- 🌍 Passionate about open-source and Linux ecosystem  
+- 🚀 Fast learner with strong curiosity  
+- 🔍 Debugging-first mindset  
+- 🧠 Systems thinking approach  
+- 🌍 Passion for open-source & Linux ecosystem  
 
 ---
 
-## 🐍 Snake Eating Contributions <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"> </p>
+## 🐍 Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
 ---
 
 ## 📫 Connect With Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/lokesh-jaya-rao-0047b8268/)
-- 📧 [Email](mailto:lokeshjra168@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/lokesh-jaya-rao-0047b8268/)  
+- 📧 [Email](mailto:lokeshjra168@gmail.com)  
 
 ---
 
 ## ⚡ Engineering Philosophy
 
-> "I focus on understanding systems from boot to user space — not just writing code, but understanding how systems behave."
+> <i>"I focus on understanding systems from boot to user space — not just writing code, but understanding behavior."</i>
