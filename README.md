@@ -12,29 +12,28 @@
 
 ## 🧠 Core Focus
 
-- ⚙️ Embedded Systems Development (Microcontrollers & low-level programming)
-- 🐧 Embedded Linux Systems (boot process, system behavior, debugging)
-- 🔧 Board Bring-up Concepts & Hardware-Software Integration
-- 📦 BSP Understanding (Bootloader, Kernel, RootFS basics)
-- ⚡ System Debugging (functional + performance issues)
-- 📡 User-space programming & system-level tools
+- ⚙️ Embedded Systems Development (low-level programming, microcontrollers)
+- 🐧 Embedded Linux (boot process, logs, system behavior, debugging)
+- 🔧 Board bring-up concepts & hardware-software integration
+- 📦 BSP fundamentals (bootloader, kernel, root filesystem)
+- ⚡ Debugging system-level issues (functional & performance)
+- 📡 User-space tools & system monitoring
 
 ---
 
 ## 💻 Technical Skills
 
 ### 🔹 Programming
-- C (low-level system programming)
-- Python (automation, system tools)
-- Bash (Linux scripting & workflows)
+- C (system-level programming)
+- Python (automation & tooling)
+- Bash (Linux workflows & scripting)
 
 ### 🔹 Embedded Linux & Systems
-- Linux Boot Process (Bootloader → Kernel → RootFS)
-- BSP Concepts (basic understanding of board support packages)
-- System Logs & Debugging (`journalctl`, dmesg)
-- Process Management & Performance Observation
+- Linux Boot Flow (Bootloader → Kernel → RootFS)
+- System Debugging (`journalctl`, dmesg)
+- Process & Resource Monitoring
 - File Systems & Permissions
-- Yocto (learning stage)
+- Intro to Yocto (learning phase)
 
 ### 🔹 Tools
 <p align="center">
@@ -48,50 +47,17 @@
 
 ---
 
-## 📈 Engineering Activity Dashboard
-
-![Projects](https://img.shields.io/badge/Projects-3-blue?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-Embedded%20Linux-orange?style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge)
-
----
-
-### 🎯 Project Progress
-
-![Progress](https://progress-bar.dev/30/?title=Projects%20Completed&width=500)
-
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight"/>
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-> 🐍 Feeding the snake with contributions in:  
-> Linux • Embedded Systems • Debugging • Projects • Open Source
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
 ## 🛠️ Projects
 
 ### 🧠 Intelligent Log Analyzer  
-- Linux-based log analysis tool using `journalctl`  
-- Detects errors, filters logs, generates structured reports  
-- Demonstrates system-level debugging  
+- Linux-based log analysis using `journalctl`  
+- Detects errors and failures  
+- Generates structured reports  
+- Demonstrates system-level debugging workflow  
 
 ### ⚙️ Embedded Monitoring Systems  
 - Sensor-based data acquisition  
-- Real-time processing  
+- Real-time system observation  
 
 ---
 
@@ -99,18 +65,27 @@
 
 ### 🚀 Exodrone Systems — UAV/UAS Systems Engineer
 
-- Hardware-software integration  
-- System-level debugging  
-- Field testing & reliability  
+- Worked on embedded and system-level components  
+- Hardware-software integration and field testing  
+- Exposure to debugging and electronics  
+- Understanding of real-world system reliability  
 
 ---
 
 ## 🧩 Additional Strengths
 
-- 🚀 Fast learner  
-- 🔍 Strong debugging mindset  
-- 🧠 Systems thinking  
-- 🌍 Open-source interest  
+- 🚀 Strong learning ability and curiosity  
+- 🔍 Debugging-oriented mindset  
+- 🧠 Systems thinking approach  
+- 🌍 Interest in open-source and Linux ecosystem  
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
 
 ---
 
@@ -123,4 +98,4 @@
 
 ## ⚡ Engineering Philosophy
 
-> "I understand systems from boot to user space — not just code, but behavior."
+> "I focus on understanding systems from boot to user space — not just writing code, but understanding behavior."
