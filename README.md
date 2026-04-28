@@ -10,12 +10,6 @@
 </p>
 
 ---
-## 🌍 Time Zones
-
-<p align="center">
-  🇩🇪 Frankfurt (UTC+1 / UTC+2 DST) &nbsp;&nbsp; | &nbsp;&nbsp; 🇮🇳 Kolkata (UTC+5:30)
-</p>
----
 
 ## 🧠 Core Focus
 
