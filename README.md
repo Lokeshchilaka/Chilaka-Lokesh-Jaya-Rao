@@ -5,72 +5,80 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&center=true&vCenter=true&width=520&lines=Embedded+Systems+Engineer;Embedded+Linux+%7C+C+%7C+Python;System+Level+Debugging+%7C+Linux+Internals;Building+Real-World+Engineering+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&center=true&vCenter=true&width=560&lines=Embedded+Linux+Engineer;Bootloader+%7C+Kernel+%7C+BSP+Fundamentals;C+%7C+Python+%7C+Bash;System+Debugging+%7C+Linux+Internals;Open+Source+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧠 Core Focus
 
-- ⚙️ Embedded Systems Development (Microcontrollers, low-level programming)
-- 🐧 Embedded Linux Systems (processes, logs, system behavior, debugging)
-- 🔧 System-Level Debugging & Troubleshooting
-- 📡 Hardware-Software Integration
-- ⚡ Real-time data handling and system monitoring
+- ⚙️ Embedded Systems Development (Microcontrollers & low-level programming)
+- 🐧 Embedded Linux Systems (boot process, system behavior, debugging)
+- 🔧 Board Bring-up Concepts & Hardware-Software Integration
+- 📦 BSP Understanding (Bootloader, Kernel, RootFS basics)
+- ⚡ System Debugging (functional + performance issues)
+- 📡 User-space programming & system-level tools
 
 ---
 
 ## 💻 Technical Skills
 
 ### 🔹 Programming
-- C (Core for Embedded Systems)
-- Python (System tools, scripting, automation)
+- C (low-level system programming)
+- Python (automation, system tools)
+- Bash (Linux scripting & workflows)
 
-### 🔹 Embedded Systems
-- Microcontrollers: ESP32  
-- GPIO, ADC, UART, I2C, SPI fundamentals  
-- Sensor interfacing and real-time data handling  
+### 🔹 Embedded Linux & Systems
+- Linux Boot Process (Bootloader → Kernel → RootFS)
+- BSP Concepts (basic understanding of board support packages)
+- System Logs & Debugging (`journalctl`, dmesg)
+- Process Management & Performance Observation
+- File Systems & Permissions
+- Basic Yocto awareness (learning stage)
 
-### 🔹 Embedded Linux
-- Linux Commands & System Navigation  
-- Process Management & System Monitoring  
-- Log Analysis (`journalctl`, system logs)  
-- File Systems & Permissions  
-- Shell usage and debugging workflows  
-
-### 🔹 Tools & Platforms
+### 🔹 Tools & Development Environment
 <p align="center">
-  <img src="https://img.shields.io/badge/Embedded%20Linux-Ubuntu-orange?style=for-the-badge&logo=ubuntu"/>
+  <img src="https://img.shields.io/badge/Linux-Ubuntu-orange?style=for-the-badge&logo=ubuntu"/>
   <img src="https://img.shields.io/badge/Language-C-blue?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/Microcontroller-ESP32-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Tools-Git-black?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/Simulation-Gazebo-lightgrey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scripting-Bash-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Version%20Control-Git-black?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/Embedded-ESP32-green?style=for-the-badge"/>
 </p>
+
+### 🔹 Engineering & Debugging Exposure
+- Basic electronics understanding (signals, power, interfacing)
+- Practical debugging mindset (log analysis, system tracing)
+- Exposure to system-level fault analysis
+- Familiarity with terminal-based workflows
 
 ---
 
-## 📚 Current Focus
+## 📚 Current Focus (Aligned with Embedded Linux Roles)
 
-- 🐧 Deep understanding of Embedded Linux internals  
-- ⚙️ Building system-level tools (log analyzer, monitoring systems)  
-- 🔧 Strengthening C for low-level programming  
-- 🧠 Understanding memory, processes, and system behavior  
-- 📡 Working on real-world embedded + Linux-based projects  
+- 🐧 Deep dive into Embedded Linux internals (kernel, logs, processes)
+- ⚙️ Understanding BSP layers (bootloader, kernel, root filesystem)
+- 🔧 Building tools for system debugging & monitoring
+- 📦 Learning Yocto-based build systems
+- 🧠 Strengthening C for low-level and system programming
+- 📡 Exploring system performance analysis
 
 ---
 
 ## 🛠️ Projects
 
-- 🧠 Intelligent Log Analyzer  
-  → Linux-based system log analysis tool using `journalctl`  
-  → Detects errors, filters logs, generates structured reports  
+### 🧠 Intelligent Log Analyzer  
+- Linux-based log analysis tool using `journalctl`  
+- Detects errors, filters logs, generates structured reports  
+- Demonstrates system-level debugging workflow  
 
-- ⚙️ Embedded Monitoring Systems  
-  → Sensor-based data acquisition and processing  
+### ⚙️ Embedded Monitoring Systems  
+- Sensor-based data acquisition and processing  
+- Real-time system observation  
 
-- 🤖 ROS2-Based System Simulation  
-  → URDF modeling, simulation, and control workflows  
+### 🤖 ROS2 System Simulation  
+- System modeling and simulation workflows  
+- Understanding of real-time data pipelines  
 
 ---
 
@@ -78,10 +86,19 @@
 
 ### 🚀 Exodrone Systems — UAV/UAS Systems Engineer
 
-- Worked on real-world engineering systems involving embedded components  
-- Integrated hardware and software for system-level applications  
-- Gained practical exposure to system debugging, electronics, and field testing  
-- Experience with composite structures and system integration  
+- Worked on embedded and system-level components in real-world environments  
+- Hardware-software integration and field testing  
+- Exposure to system debugging, electronics, and integration workflows  
+- Practical understanding of engineering systems and reliability  
+
+---
+
+## 🧩 Additional Strengths
+
+- 🚀 Quick learner with strong problem-solving mindset  
+- 🔍 Interest in debugging complex system issues  
+- 🧠 Strong curiosity for low-level system behavior  
+- 🌍 Passionate about open-source and Linux ecosystem  
 
 ---
 
@@ -103,4 +120,4 @@
 
 ## ⚡ Engineering Philosophy
 
-> "I focus on understanding systems at a fundamental level — from hardware signals to Linux-level behavior."
+> "I focus on understanding systems from boot to user space — not just writing code, but understanding how systems behave."
