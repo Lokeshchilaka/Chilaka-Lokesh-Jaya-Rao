@@ -1,90 +1,65 @@
 <h1 align="center">Hi, I'm Chilaka Lokesh Jaya Rao ⚙️</h1>
 
 <p align="center">
-  <i>Embedded Systems Engineer | Embedded Linux Developer</i>
+  <i>Embedded Systems Engineer | Embedded Linux Developer | UAV & Robotics Systems</i>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&center=true&vCenter=true&width=560&lines=Embedded+Linux+Engineer;Bootloader+%7C+Kernel+%7C+BSP+Fundamentals;C+%7C+Python+%7C+Bash;System+Debugging+%7C+Linux+Internals;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&center=true&vCenter=true&width=520&lines=Embedded+Systems+Engineer+from+India;Embedded+Linux+%7C+C+%7C+Python;UAV+Systems+%7C+Robotics+%7C+Automation;Building+Real-World+Engineering+Systems" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧠 Core Focus
 
-- ⚙️ Embedded Systems Development (low-level programming, microcontrollers)
-- 🐧 Embedded Linux (boot process, logs, system behavior, debugging)
-- 🔧 Board bring-up concepts & hardware-software integration
-- 📦 BSP fundamentals (bootloader, kernel, root filesystem)
-- ⚡ Debugging system-level issues (functional & performance)
-- 📡 User-space tools & system monitoring
+- ⚙️ Embedded Systems Development (Microcontrollers & Low-Level Programming)
+- 🐧 Embedded Linux (System-level understanding, logs, drivers basics)
+- 🛸 UAV Systems Engineering (Flight systems, data handling, control)
+- 🤖 Robotics & Automation (System integration, control logic)
+- 📡 Real-time data processing & system debugging
 
 ---
 
-## 💻 Technical Skills
+## 💻 Tech Stack & Tools
 
-### 🔹 Programming
-- C (system-level programming)
-- Python (automation & tooling)
-- Bash (Linux workflows & scripting)
-
-### 🔹 Embedded Linux & Systems
-- Linux Boot Flow (Bootloader → Kernel → RootFS)
-- System Debugging (`journalctl`, dmesg)
-- Process & Resource Monitoring
-- File Systems & Permissions
-- Intro to Yocto (learning phase)
-
-### 🔹 Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-Ubuntu-orange?style=for-the-badge&logo=ubuntu"/>
-  <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Language-C-blue?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/Bash-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/ESP32-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Embedded%20Linux-Ubuntu-orange?style=for-the-badge&logo=ubuntu"/>
+  <img src="https://img.shields.io/badge/Microcontroller-ESP32-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tools-Git-black?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/ROS2-Robotics-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Simulation-Gazebo-lightgrey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Design-Fusion360-grey?style=for-the-badge"/>
 </p>
+
+---
+
+## 📚 Current Focus
+
+- 🔧 Building system-level projects on Linux (log analysis, system monitoring)
+- 🐧 Deep diving into Embedded Linux (processes, logs, system behavior)
+- ⚡ Strengthening C & Python for low-level + system applications
+- 🤖 Working with ROS2, URDF, and robotic simulation
+- 🛸 Developing UAV-based real-world engineering systems
 
 ---
 
 ## 🛠️ Projects
 
-### 🧠 Intelligent Log Analyzer  
-- Linux-based log analysis using `journalctl`  
-- Detects errors and failures  
-- Generates structured reports  
-- Demonstrates system-level debugging workflow  
-
-### ⚙️ Embedded Monitoring Systems  
-- Sensor-based data acquisition  
-- Real-time system observation  
+- 🧠 Intelligent Log Analyzer (Linux system log processing tool)
+- 🛸 UAV Systems Development (Fixed-wing & multirotor platforms)
+- 🤖 ROS2 Mobile Robot Simulation (URDF + SLAM + control)
+- 📡 Sensor-based Embedded Monitoring Systems
+- ⚙️ System-level debugging and log analysis tools
 
 ---
 
-## 🏭 Experience
-
-### 🚀 Exodrone Systems — UAV/UAS Systems Engineer
-
-- Worked on embedded and system-level components  
-- Hardware-software integration and field testing  
-- Exposure to debugging and electronics  
-- Understanding of real-world system reliability  
-
----
-
-## 🧩 Additional Strengths
-
-- 🚀 Strong learning ability and curiosity  
-- 🔍 Debugging-oriented mindset  
-- 🧠 Systems thinking approach  
-- 🌍 Interest in open-source and Linux ecosystem  
-
----
-
-## 🐍 Contribution Activity
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" width="48%">
 </p>
 
 ---
@@ -98,4 +73,4 @@
 
 ## ⚡ Engineering Philosophy
 
-> "I focus on understanding systems from boot to user space — not just writing code, but understanding behavior."
+> "I build systems from the ground up — understanding both hardware and software, not just using them."
