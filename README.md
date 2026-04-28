@@ -1,87 +1,57 @@
 <h1 align="center">Hi, I'm Chilaka Lokesh Jaya Rao ⚙️</h1>
 
 <p align="center">
-  <i>Embedded Systems Engineer | Embedded Linux Developer</i>
+  <i>Embedded Systems Engineer | Embedded Linux Developer | UAV & Robotics Systems</i>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&center=true&vCenter=true&width=520&lines=Embedded+Systems+Engineer;Embedded+Linux+%7C+C+%7C+Python;System+Level+Debugging+%7C+Linux+Internals;Building+Real-World+Engineering+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&center=true&vCenter=true&width=520&lines=Embedded+Systems+Engineer+from+India;Embedded+Linux+%7C+C+%7C+Python;UAV+Systems+%7C+Robotics+%7C+Automation;Building+Real-World+Engineering+Systems" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧠 Core Focus
 
-- ⚙️ Embedded Systems Development (Microcontrollers, low-level programming)
-- 🐧 Embedded Linux Systems (processes, logs, system behavior, debugging)
-- 🔧 System-Level Debugging & Troubleshooting
-- 📡 Hardware-Software Integration
-- ⚡ Real-time data handling and system monitoring
+- ⚙️ Embedded Systems Development (Microcontrollers & Low-Level Programming)
+- 🐧 Embedded Linux (System-level understanding, logs, drivers basics)
+- 🛸 UAV Systems Engineering (Flight systems, data handling, control)
+- 🤖 Robotics & Automation (System integration, control logic)
+- 📡 Real-time data processing & system debugging
 
 ---
 
-## 💻 Technical Skills
+## 💻 Tech Stack & Tools
 
-### 🔹 Programming
-- C (Core for Embedded Systems)
-- Python (System tools, scripting, automation)
-
-### 🔹 Embedded Systems
-- Microcontrollers: ESP32  
-- GPIO, ADC, UART, I2C, SPI fundamentals  
-- Sensor interfacing and real-time data handling  
-
-### 🔹 Embedded Linux
-- Linux Commands & System Navigation  
-- Process Management & System Monitoring  
-- Log Analysis (`journalctl`, system logs)  
-- File Systems & Permissions  
-- Shell usage and debugging workflows  
-
-### 🔹 Tools & Platforms
 <p align="center">
-  <img src="https://img.shields.io/badge/Embedded%20Linux-Ubuntu-orange?style=for-the-badge&logo=ubuntu"/>
   <img src="https://img.shields.io/badge/Language-C-blue?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Embedded%20Linux-Ubuntu-orange?style=for-the-badge&logo=ubuntu"/>
   <img src="https://img.shields.io/badge/Microcontroller-ESP32-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Tools-Git-black?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/ROS2-Robotics-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Simulation-Gazebo-lightgrey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Design-Fusion360-grey?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 📚 Current Focus
 
-- 🐧 Deep understanding of Embedded Linux internals  
-- ⚙️ Building system-level tools (log analyzer, monitoring systems)  
-- 🔧 Strengthening C for low-level programming  
-- 🧠 Understanding memory, processes, and system behavior  
-- 📡 Working on real-world embedded + Linux-based projects  
+- 🔧 Building system-level projects on Linux (log analysis, system monitoring)
+- 🐧 Deep diving into Embedded Linux (processes, logs, system behavior)
+- ⚡ Strengthening C & Python for low-level + system applications
+- 🤖 Working with ROS2, URDF, and robotic simulation
+- 🛸 Developing UAV-based real-world engineering systems
 
 ---
 
 ## 🛠️ Projects
 
-- 🧠 Intelligent Log Analyzer  
-  → Linux-based system log analysis tool using `journalctl`  
-  → Detects errors, filters logs, generates structured reports  
-
-- ⚙️ Embedded Monitoring Systems  
-  → Sensor-based data acquisition and processing  
-
-- 🤖 ROS2-Based System Simulation  
-  → URDF modeling, simulation, and control workflows  
-
----
-
-## 🏭 Experience
-
-### 🚀 Exodrone Systems — UAV/UAS Systems Engineer
-
-- Worked on real-world engineering systems involving embedded components  
-- Integrated hardware and software for system-level applications  
-- Gained practical exposure to system debugging, electronics, and field testing  
-- Experience with composite structures and system integration  
+- 🧠 Intelligent Log Analyzer (Linux system log processing tool)
+- 🛸 UAV Systems Development (Fixed-wing & multirotor platforms)
+- 🤖 ROS2 Mobile Robot Simulation (URDF + SLAM + control)
+- 📡 Sensor-based Embedded Monitoring Systems
+- ⚙️ System-level debugging and log analysis tools
 
 ---
 
@@ -103,4 +73,4 @@
 
 ## ⚡ Engineering Philosophy
 
-> "I focus on understanding systems at a fundamental level — from hardware signals to Linux-level behavior."
+> "I build systems from the ground up — understanding both hardware and software, not just using them."
