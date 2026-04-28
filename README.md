@@ -14,8 +14,15 @@
 ## 🌍 Time Zones
 
 <p align="center">
-  <img src="https://readme-time.vercel.app/api?timezone=Europe/Berlin&label=Frankfurt&color=00ADB5&style=for-the-badge"/>
-  <img src="https://readme-time.vercel.app/api?timezone=Asia/Kolkata&label=Kolkata&color=F8B400&style=for-the-badge"/>
+  🇩🇪 <b>Frankfurt</b> (Germany)  
+  <br>
+  <img src="https://img.shields.io/badge/Time-Europe%2FBerlin-blue?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  🇮🇳 <b>Kolkata</b> (India)  
+  <br>
+  <img src="https://img.shields.io/badge/Time-Asia%2FKolkata-orange?style=for-the-badge"/>
 </p>
 
 ---
