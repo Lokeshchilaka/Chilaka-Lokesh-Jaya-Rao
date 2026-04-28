@@ -34,34 +34,51 @@
 - System Logs & Debugging (`journalctl`, dmesg)
 - Process Management & Performance Observation
 - File Systems & Permissions
-- Basic Yocto awareness (learning stage)
+- Yocto (learning stage)
 
-### 🔹 Tools & Development Environment
+### 🔹 Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-Ubuntu-orange?style=for-the-badge&logo=ubuntu"/>
-  <img src="https://img.shields.io/badge/Language-C-blue?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/Scripting-Bash-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Version%20Control-Git-black?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/Embedded-ESP32-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Bash-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/ESP32-green?style=for-the-badge"/>
 </p>
-
-### 🔹 Engineering & Debugging Exposure
-- Basic electronics understanding (signals, power, interfacing)
-- Practical debugging mindset (log analysis, system tracing)
-- Exposure to system-level fault analysis
-- Familiarity with terminal-based workflows
 
 ---
 
-## 📚 Current Focus (Embedded Linux)
+## 📈 Engineering Activity Dashboard
 
-- 🐧 Deep dive into Embedded Linux internals (kernel, logs, processes)
-- ⚙️ Understanding BSP layers (bootloader, kernel, root filesystem)
-- 🔧 Building tools for system debugging & monitoring
-- 📦 Learning Yocto-based build systems
-- 🧠 Strengthening C for low-level programming
-- 📡 Exploring system performance analysis
+![Projects](https://img.shields.io/badge/Projects-3-blue?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Embedded%20Linux-orange?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge)
+
+---
+
+### 🎯 Project Progress
+
+![Progress](https://progress-bar.dev/30/?title=Projects%20Completed&width=500)
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+> 🐍 Feeding the snake with contributions in:  
+> Linux • Embedded Systems • Debugging • Projects • Open Source
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
 
@@ -70,15 +87,11 @@
 ### 🧠 Intelligent Log Analyzer  
 - Linux-based log analysis tool using `journalctl`  
 - Detects errors, filters logs, generates structured reports  
-- Demonstrates real-world system debugging workflow  
+- Demonstrates system-level debugging  
 
 ### ⚙️ Embedded Monitoring Systems  
-- Sensor-based data acquisition and processing  
-- Real-time system observation  
-
-### 🤖 ROS2 System Simulation  
-- System modeling and simulation workflows  
-- Understanding of real-time data pipelines  
+- Sensor-based data acquisition  
+- Real-time processing  
 
 ---
 
@@ -86,36 +99,18 @@
 
 ### 🚀 Exodrone Systems — UAV/UAS Systems Engineer
 
-- Worked on embedded and system-level components in real-world environments  
-- Hardware-software integration and field testing  
-- Exposure to system debugging and electronics  
-- Practical understanding of engineering system reliability  
+- Hardware-software integration  
+- System-level debugging  
+- Field testing & reliability  
 
 ---
 
 ## 🧩 Additional Strengths
 
-- 🚀 Quick learner with strong problem-solving mindset  
-- 🔍 Interest in debugging complex system issues  
-- 🧠 Strong curiosity for low-level system behavior  
-- 🌍 Passionate about open-source and Linux ecosystem  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" width="48%">
-</p>
-
----
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
+- 🚀 Fast learner  
+- 🔍 Strong debugging mindset  
+- 🧠 Systems thinking  
+- 🌍 Open-source interest  
 
 ---
 
@@ -128,4 +123,4 @@
 
 ## ⚡ Engineering Philosophy
 
-> "I focus on understanding systems from boot to user space — not just writing code, but understanding how systems behave."
+> "I understand systems from boot to user space — not just code, but behavior."
