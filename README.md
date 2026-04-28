@@ -13,14 +13,13 @@
 ## 🌍 Time Zones
 
 <p align="center">
-  🇩🇪 Frankfurt &nbsp;&nbsp;&nbsp;&nbsp; 🇮🇳 Kolkata
+  🇩🇪 Frankfurt &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; 🇮🇳 Kolkata
 </p>
 
 <p align="center">
-  <img src="https://readme-time.vercel.app/api?timezone=Europe/Berlin&label=&color=00ADB5"/>
-  <img src="https://readme-time.vercel.app/api?timezone=Asia/Kolkata&label=&color=F8B400"/>
+  <img src="https://img.shields.io/badge/Frankfurt-Europe%2FBerlin-00ADB5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Kolkata-Asia%2FKolkata-F8B400?style=for-the-badge"/>
 </p>
-
 ---
 
 ## 🧠 Core Focus
