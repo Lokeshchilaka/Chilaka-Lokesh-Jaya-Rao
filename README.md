@@ -54,13 +54,13 @@
 
 ---
 
-## 📚 Current Focus (Aligned with Embedded Linux Roles)
+## 📚 Current Focus (Embedded Linux)
 
 - 🐧 Deep dive into Embedded Linux internals (kernel, logs, processes)
 - ⚙️ Understanding BSP layers (bootloader, kernel, root filesystem)
 - 🔧 Building tools for system debugging & monitoring
 - 📦 Learning Yocto-based build systems
-- 🧠 Strengthening C for low-level and system programming
+- 🧠 Strengthening C for low-level programming
 - 📡 Exploring system performance analysis
 
 ---
@@ -70,7 +70,7 @@
 ### 🧠 Intelligent Log Analyzer  
 - Linux-based log analysis tool using `journalctl`  
 - Detects errors, filters logs, generates structured reports  
-- Demonstrates system-level debugging workflow  
+- Demonstrates real-world system debugging workflow  
 
 ### ⚙️ Embedded Monitoring Systems  
 - Sensor-based data acquisition and processing  
@@ -88,8 +88,8 @@
 
 - Worked on embedded and system-level components in real-world environments  
 - Hardware-software integration and field testing  
-- Exposure to system debugging, electronics, and integration workflows  
-- Practical understanding of engineering systems and reliability  
+- Exposure to system debugging and electronics  
+- Practical understanding of engineering system reliability  
 
 ---
 
@@ -107,6 +107,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" width="48%">
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
