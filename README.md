@@ -11,6 +11,15 @@
 
 ---
 
+## 🌍 Time Zones
+
+<p align="center">
+  <img src="https://readme-time.vercel.app/api?timezone=Europe/Berlin&label=Frankfurt&color=00ADB5&style=for-the-badge"/>
+  <img src="https://readme-time.vercel.app/api?timezone=Asia/Kolkata&label=Kolkata&color=F8B400&style=for-the-badge"/>
+</p>
+
+---
+
 ## 🧠 Core Focus
 
 - ⚙️ Embedded Systems Development (low-level programming, microcontrollers)  
@@ -88,16 +97,18 @@
 - 🚀 Fast learner with strong curiosity  
 - 🔍 Debugging-first mindset  
 - 🧠 Systems thinking approach  
-- 🌍 Passion for open-source & Linux ecosystem
-  
+- 🌍 Passion for open-source & Linux ecosystem  
+
 ---
 
-  ## 🐍 Snake Eating Contributions 
-  <p align="center"> 
-    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"> 
-  </p> 
-  
+## 🐍 Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
 ---
+
 ## 📫 Connect With Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/lokesh-jaya-rao-0047b8268/)  
