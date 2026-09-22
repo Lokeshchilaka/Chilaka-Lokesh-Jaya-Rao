@@ -25,6 +25,7 @@
 ## 💻 Technical Skills
 
 ### 🔹 Programming
+- 🧩 C++
 - 🧩 C (system-level programming)  
 - 🐍 Python (automation & tooling)  
 - 🖥️ Bash (Linux workflows & scripting)  
